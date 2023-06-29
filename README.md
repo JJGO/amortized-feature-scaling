@@ -1,6 +1,6 @@
-# Amortized Feature Scaling
+# Scale Space Hypernetworks
 
-Official implementation of "Amortized Learning of Flexible Feature Scaling for Segmentation Models".
+Official implementation of "Scale-Space Hypernetworks for  Efficient Biomedical Imaging".
 
 
 **Code coming soon!**
